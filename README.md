@@ -1,2 +1,6 @@
-# Responsive Sidebar Menu 
-## HTML,CSS & JAVASCRIPT 
+# 🗂️ Responsive Sidebar Menu 🟰 
+## ➡️ Key Concepts :
+### ✅ onclick Event
+### ✅ forEach( ) method
+### ✅ add( ) method
+### ✅ remove( ) method
